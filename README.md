@@ -1,5 +1,10 @@
 # cinematic.things.worlds
 Collection of AI things in the field of VFX
+
+<b>
+  Parallax and 3d
+</b>
+
 3D Photography using Context-aware Layered Depth Inpainting
 [[Project Website](https://shihmengli.github.io/3D-Photo-Inpainting/)]
 
